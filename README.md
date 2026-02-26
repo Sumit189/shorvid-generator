@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/9822470a-cbad-4848-b7bd-66891ef280f0
 ## ⚙️ Installation
 ⚠️ Use Python 3.10 or lower in your virtual environment, newer versions might break the install.
 ```bash
-git clone https://github.com/dzotsee21/shorvid-generator.git
+git clone https://github.com/Sumit189/shorvid-generator.git
 cd shorvid-generator
 pip install -r requirements.txt
 python app.py
