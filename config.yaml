@@ -6,7 +6,7 @@ tts-model: edge-tts
 
 # Voice configuration for edge-tts (only used if tts-model is "edge-tts")
 # to view all the available voices, type 'edge-tts --list-voices' in your terminal
-tts-voice-name-1: en-US-RyanNeural   # Primary voice used for monologue generation (Goku-like)
+tts-voice-name-1: en-US-AvaMultilingualNeural   # Primary voice used for monologue generation
 tts-voice-name-2: en-US-BrianMultilingualNeural # Secondary/optional voice (for dialogues or variation)
 
 # Voice configuration for eleven-labs (only used if tts-model is "eleven-labs")
